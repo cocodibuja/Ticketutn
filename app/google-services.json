@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392245850030",
+    "firebase_url": "https://ticketutn-718df.firebaseio.com",
+    "project_id": "ticketutn-718df",
+    "storage_bucket": "ticketutn-718df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392245850030:android:f9f45d1f945ceb2b",
+        "android_client_info": {
+          "package_name": "diplomatura.cocodibuja.com.ticketutn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392245850030-03febcpjoilmouhbqhhj5o6f43gq38p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diplomatura.cocodibuja.com.ticketutn",
+            "certificate_hash": "8101bc4965c27d08751f43d1f05f4e94d76d955f"
+          }
+        },
+        {
+          "client_id": "392245850030-jae5eg3brdtl2f67r9seidj13rkrf3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrmoQg-1hjtVHVnpmaezMKZ8xk5r0xrPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392245850030-jae5eg3brdtl2f67r9seidj13rkrf3gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
